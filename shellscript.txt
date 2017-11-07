@@ -1,1 +1,2 @@
 echo "The current username is $(logname)"
+echo "The current date is $(date)"
